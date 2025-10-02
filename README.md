@@ -1,4 +1,4 @@
- # SIEMENS PLC examples 
+ # SIEMENS PLC Modbus TCP examples
 
 # Use attached Modbus User Manual for register information 
 
