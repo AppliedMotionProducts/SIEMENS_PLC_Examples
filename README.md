@@ -5,6 +5,6 @@
 
  1. Modbus TCP products with SIEMENS PLC
     
-    --- This example program shows how to read and write holding registers for Applied Motion products Modbus TCP products in SIEMENS PLC.
+    --- This example program shows how to read and write holding registers for AMP Modbus TCP products in SIEMENS PLC using TIA Portal software.
 
     --- Contact technical support for more information.
